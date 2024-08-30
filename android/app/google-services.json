@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297313464120",
+    "project_id": "mynotes-sjwalker",
+    "storage_bucket": "mynotes-sjwalker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297313464120:android:b1e07843397e4c456d9bcd",
+        "android_client_info": {
+          "package_name": "com.seanjwalker.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKIjoFwcRO9jHKeTnpXj2YTb6N_8_1QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
